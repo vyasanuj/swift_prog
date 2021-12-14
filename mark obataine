@@ -1,0 +1,11 @@
+print ("mark obtaine by student in five subjet")
+let a = 60 
+ print ("mark obtaine by student in maths :",a)
+ let b = 70
+ print ("mark obtaine by student in chemestry :",b)
+ let c = 88
+ print ("mark obtaine by student in english :",c)
+ let d = 70
+ print ("mark obtaine by student in physics :",d)
+ let f = 90
+ print ("mark obtaine by student in computer science :",f)
