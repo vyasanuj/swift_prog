@@ -1,0 +1,3 @@
+let s1 = 80
+let s2 = 90
+print("Team 2 scored \(s2) runs and team 1 score scored \(s1)")
