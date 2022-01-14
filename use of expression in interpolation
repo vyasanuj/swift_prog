@@ -1,0 +1,3 @@
+let eng_mark = 80
+let maths_mark = 90
+print("maths marks \(maths_mark) which is \(math_mark-emg_mark) more than englsih marks")
