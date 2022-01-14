@@ -1,0 +1,10 @@
+let A = 30
+let B = 20
+let C = 40
+if A <= B && A <= C {
+ print("A is the smallest one")
+} else if B <= A && B <= C {
+ print("B is the smallest one")
+} else {
+ print("C is the smallest one")
+} 
