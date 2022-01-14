@@ -1,0 +1,9 @@
+struct candidate  {
+    var name:String
+    var age: String
+    var birthdate:String
+}
+let candidate = candidate (name:"anuj",age:"18",birthdate:"08/07/2003")
+print(candidate.name)
+print(candidate.age)
+print(candidate.birthdate)
