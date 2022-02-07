@@ -1,0 +1,13 @@
+var names = ["anuj","avi","rahul","suresh"]
+names.append("mahesh")
+    print(names)
+if names.contains("mahesh")
+{
+    print("TRUE")
+}
+else
+{
+    print("FALSE")
+}
+names.insert("nupur" ,at:2)
+print(names)
